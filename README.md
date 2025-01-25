@@ -20,11 +20,11 @@ Simple schedule app written on React. Key features include:
 - Efficient state management with React for dynamic updates.
 
 ## CV
-📃[CV](https://drive.google.com/file/d/1bPWKZeexGDiR8FBNbVmq1Uok2hVeNIPq/view?usp=drive_link)
+📃[CV(PDF)](https://drive.google.com/file/d/1bPWKZeexGDiR8FBNbVmq1Uok2hVeNIPq/view?usp=drive_link)
 
 ## Contacts
-- Phone number: 080-6449-1792
-- Email: natasha200124@gmail.com
-- Linkedein: linkedin.com/in/nataliia-diatlova
-- GitHub: github.com/Diatlova-Nataliia
+- 📞Phone number: 080-6449-1792
+- 📩Email: natasha200124@gmail.com
+- 📎[Linkedin Profile](linkedin.com/in/nataliia-diatlova)
+- 👾[GitHub Profile](github.com/Diatlova-Nataliia)
 
