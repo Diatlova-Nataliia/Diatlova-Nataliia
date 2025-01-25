@@ -25,6 +25,6 @@ Simple schedule app written on React. Key features include:
 ## Contacts
 - 📞Phone number: 080-6449-1792
 - 📩Email: natasha200124@gmail.com
-- 📎[Linkedin Profile](linkedin.com/in/nataliia-diatlova)
-- 👾[GitHub Profile](github.com/Diatlova-Nataliia)
+- 📎[Linkedin Profile](https://www.linkedin.com/in/nataliia-diatlova-8562752a1/)
+- 👾[GitHub Profile](https://github.com/Diatlova-Nataliia)
 
