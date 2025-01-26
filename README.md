@@ -7,7 +7,7 @@
 - Git, Vite
 
 ## Projects
-### To-do List App (https://github.com/Diatlova-Nataliia/To-do-list)
+### To-do List App (https://diatlova-nataliia.github.io/To-do-list/)
 Simple task management app developed in Java Script. Key features include:
 - Adding, updating, and deleting tasks.
 - Integration with local storage to persist user data.
