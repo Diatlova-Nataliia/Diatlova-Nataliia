@@ -14,8 +14,8 @@ Simple task management app developed in Java Script. Key features include:
 - User-friendly interface for effective task management.
 
 ### Refactored to-do list app (https://github.com/Diatlova-Nataliia/To-do-list/tree/main/list/src)
-- migrated from vanilla JS to React with TypeScript
-- implemented SCSS for structured and reusable styling
+- Migrated from vanilla JS to React with TypeScript
+- Implemented SCSS for structured and reusable styling
 
 ### Schedule Tracker (https://diatlova-nataliia.github.io/playground/)
 Simple schedule app written on React. Key features include:
