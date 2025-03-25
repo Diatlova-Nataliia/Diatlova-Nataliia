@@ -3,19 +3,21 @@
 ## Skills
 - HTML, CSS, SCSS
 - JavaScript, Typescript
-- React
+- React, Redux Toolkit
 - Git, Vite
 
 ## Projects
-### To-do List App (https://diatlova-nataliia.github.io/To-do-list/)
+### To-do List App (https://github.com/Diatlova-Nataliia/To-do-list)
 Simple task management app developed in Java Script. Key features include:
 - Adding, updating, and deleting tasks.
-- Integration with local storage to persist user data.
+- Integration with local storage to persist user data.z
 - User-friendly interface for effective task management.
 
 ### Refactored to-do list app (https://github.com/Diatlova-Nataliia/To-do-list/tree/main/list/src)
 - Migrated from vanilla JS to React with TypeScript
 - Implemented SCSS for structured and reusable styling
+- Efficient state management with Redux Toolkit (slices & selectors)
+- UI optimized for both desktop and mobile devices
 
 ### Schedule Tracker (https://diatlova-nataliia.github.io/playground/)
 Simple schedule app written on React. Key features include:
