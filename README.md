@@ -13,7 +13,7 @@ Simple task management app developed in Java Script. Key features include:
 - Integration with local storage to persist user data.z
 - User-friendly interface for effective task management.
 
-### Refactored to-do list app (https://github.com/Diatlova-Nataliia/To-do-list/tree/main/list/src)
+### Refactored to-do list app (https://diatlova-nataliia.github.io/To-do-list/)
 - Migrated from vanilla JS to React with TypeScript
 - Implemented SCSS for structured and reusable styling
 - Efficient state management with Redux Toolkit (slices & selectors)
