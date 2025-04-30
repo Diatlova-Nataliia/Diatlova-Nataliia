@@ -2,11 +2,20 @@
 
 ## Skills
 - HTML, CSS, SCSS
+- TailwindCSS, MaterialUI
 - JavaScript, Typescript
-- React, Redux Toolkit
-- Git, Vite
+- React, Redux Toolkit, Next.js
+- Git, Vite, Vercel
 
 ## Projects
+### AI Recipe Generator (https://generate-recipes-icks.vercel.app/)
+Full-stack AI-powered recipe generation platform built with Next.js 14 and TypeScript
+-Users select ingredients to generate personalized recipes using OpenAI API
+-Integrated Unsplash API and Serp API for fetching relevant images
+-Recipes are stored in MongoDB Atlas and displayed with pagination
+-Responsive UI built with Tailwind CSS
+-Deployed on Vercel for seamless access
+
 ### To-do List App (https://github.com/Diatlova-Nataliia/To-do-list)
 Simple task management app developed in Java Script. Key features include:
 - Adding, updating, and deleting tasks.
