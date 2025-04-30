@@ -35,7 +35,7 @@ Simple schedule app written on React. Key features include:
 - Efficient state management with React for dynamic updates.
 
 ## CV
-📃[CV(PDF)]([https://drive.google.com/file/d/1bPWKZeexGDiR8FBNbVmq1Uok2hVeNIPq/view?usp=drive_link](https://drive.google.com/file/d/1OTI7_ZY7t9Pro48ASYmM62LkNkBQKHJ1/view?usp=sharing))
+📃[CV(PDF)]([https://drive.google.com/file/d/1OTI7_ZY7t9Pro48ASYmM62LkNkBQKHJ1/view?usp=sharing])
 
 ## Contacts
 - 📞Phone number: 080-6449-1792
